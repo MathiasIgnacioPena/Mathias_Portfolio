@@ -1,6 +1,11 @@
 # Mathias_Portfolio
 
-## Technical Skills: R, Python, SQL, Power BI, SAS, 
+## Technical Skills
+
+1. R
+2. Python
+3. SAS
+4. powerBI
 
 ## Resume 
 Ingeniero Estadístico con fuerte interés en los modelos multivariados,
